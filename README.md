@@ -14,7 +14,7 @@ This project presents a comprehensive, end-to-end data pipeline integrating **Mo
 ### 2. **On-Chain Analysis with DUNE**
 
 * Constructed custom SQL-based queries and prompts within **DUNE Analytics** to evaluate metrics for a selected coin.
-* Example Dashboard: [BONK Coin Analysis – DUNE](https://dune.com/michellelee/team2-memeproject2-bonk-analysis)
+* Example Dashboard: [BONK Coin Analysis – DUNE](https://dune.com/koushik_chowdhary/team2)
 
 ### 3. **DUNE API Integration with Python**
 
